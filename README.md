@@ -1,0 +1,2 @@
+# rust-first
+rust up
